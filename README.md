@@ -10,10 +10,10 @@ Customer churn is one of the biggest challenges in the telecom industry. This pr
 
 🛠️ Tech Stack
 1. Python
-2.Pandas & NumPy
-3.Matplotlib & Seaborn
-4.Scikit-learn
-5.Google Colab
+2. Pandas & NumPy
+3. Matplotlib & Seaborn
+4. Scikit-learn
+5. Google Colab
 
 📊 Project Workflow
 ✔ Data Loading & Cleaning
@@ -53,3 +53,4 @@ requirements.txt → Dependencies
 👩‍💻 Author
 Akanksha Mishra
 Aspiring Data Analyst / Machine Learning Enthusiast
+
