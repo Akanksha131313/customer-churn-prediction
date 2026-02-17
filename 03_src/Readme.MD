@@ -7,5 +7,4 @@
 - **03_model_training.py** → Implements logistic regression pipeline, integrates preprocessing, training, evaluation, and feature importance analysis.
 
 **Purpose:**  
-Enable **modular, end-to-end workflow** for churn prediction. Each module is reusable, ATS-friendly, and optimized for recruiter scan. Supports **business impact-driven insights**, not just technical outputs.
-
+Enable **modular, end-to-end workflow** for churn prediction. Each module is reusable. Supports **business impact-driven insights**, not just technical outputs.
